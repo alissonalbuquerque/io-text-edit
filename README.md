@@ -9,3 +9,4 @@ A text editor written in lua
 - [ ] Define design pattern
 - [ ] Write manual from instalation
 - [ ] Describe editor details
+- [ ] Define and design logo from project
